@@ -7,7 +7,7 @@ This is a .txt pagination application made with golang (Go) where:
 
   - Each page has 25 lines, at the end of the page theres separation mark that includes the page number.
 
-  - The output can be in .txt or .pdf
+  - The paginated document can be in .txt or .pdf
 
 
 # Dependencies
