@@ -151,7 +151,7 @@ func main() {
 
 	// Open the document and error check
 	var doc_name string = os.Args[1]
-	file, err1 := os.Open(doc_name + ".txt")
+	file, err1 := os.Open(doc_name)
 	if err1 != nil {
 		fmt.Println(err1)
 		return
