@@ -12,7 +12,7 @@ This is a .txt pagination application made with golang (Go) where:
 
 # Dependencies
 
-`github.com/jung-kurt/gofpdf`
+`github.com/jung-kurt/gofpdf` (already installed in the repository)
 
 # Environment configuration
 
