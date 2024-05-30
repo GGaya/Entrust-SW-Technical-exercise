@@ -16,8 +16,8 @@ This is a .txt pagination application made in golang (Go) where:
 
 # Environment configuration
 
-1. You need to have Go installed, you can install it [here](https://go.dev/doc/install)
-2. Clone this repository
+1. You need to have Go installed, you can install it [here](https://go.dev/doc/install).
+2. Clone this repository.
 
 
 # How to run it 
@@ -26,5 +26,6 @@ This is a .txt pagination application made in golang (Go) where:
 2. ./pagination document_name [txt | pdf]
 
 document_name: the name of the .txt file you want to paginate without the file extension.
+
 [txt | pdf]: it's the file extension of the output of the paginated document, the default mode it's txt.
 
