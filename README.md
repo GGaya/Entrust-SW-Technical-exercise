@@ -25,7 +25,7 @@ This is a .txt pagination application made in golang (Go) where:
 1. go build pagination.go
 2. ./pagination document_name [txt | pdf]
 
-`document_name:` the name of the .txt file you want to paginate without the file extension.
+`document_name:` the name of the .txt file you want to paginate with the file extension.
 
 `[txt | pdf]:` it's the file extension of the output of the paginated document, the default mode it's txt.
 
