@@ -17,7 +17,7 @@ This is a .txt pagination application made in golang (Go) where:
 # Environment configuration
 
 1. You need to have Go installed, you can install it [here](https://go.dev/doc/install).
-2. Clone this repository.
+2. Clone the repository in a local directory.
 
 
 # How to run it 
