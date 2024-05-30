@@ -1,7 +1,7 @@
 # Entrust-SW-Technical-exercise
 
 
-This is a .txt pagination application made in golang (Go) where: 
+This is a .txt pagination application made with golang (Go) where: 
 
   -	Each line consists of a maximum of 80 characters.
 
